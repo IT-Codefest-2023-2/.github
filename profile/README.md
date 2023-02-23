@@ -5,4 +5,4 @@ If you do not receive an invitation even tough you are shortlisted, please conta
 
 * Event Duration: 4hrs
 * Tech Stack: Spring boot microservice, Maven or Gradle as a build tool, JDK 11 or above, in-memory DB (H2DB)
-* Please do not create any repository and ait until the event day, your repositories will be assigned to you before the event starts.
+* Please do not create any repository and wait until the event day, your repositories will be assigned to you before the event starts.
